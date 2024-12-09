@@ -26,3 +26,6 @@ ProPainterのInpaintingを試したい方は、以下のノートブックをCol
  
 # License 
 Qiita-AdventCalendar-20241210-OpenCV is under [MIT License](LICENSE).
+
+# License(Movie)
+サンプル動画は[NHKクリエイティブ・ライブラリー](https://www.nhk.or.jp/archives/creative/)の[ドバイ（３）道路渋滞 アップ](https://www2.nhk.or.jp/archives/movies/?id=D0002050330_00000)を使用しています。
