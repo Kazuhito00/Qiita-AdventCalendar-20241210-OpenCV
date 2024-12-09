@@ -4,7 +4,7 @@ Qiita OpenCV アドベントカレンダー(2024年12月10日)の投稿「[OpenC
 
 # Create Mask
 マスク画像の生成は以下です。<br>
-Inpaintingしたい箇所をマウスで右クリックし囲んでください。<br>
+Inpaintingしたい箇所をマウスで左クリックし囲んでください。<br>
 ```bash
 python create_mask.py
 ```
