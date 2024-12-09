@@ -1,5 +1,5 @@
 # Qiita-AdventCalendar-20241210-OpenCV
-Qiita OpenCV アドベントカレンダー(2024年12月10日)の投稿「[OpenCVのInpaintingでオクルージョン画像の物体検出精度向上🔍]()」で使用したソースコードです。
+Qiita OpenCV アドベントカレンダー(2024年12月10日)の投稿「[OpenCVのInpaintingでオクルージョン画像の物体検出精度向上🔍](https://qiita.com/Kazuhito/items/87b41542f71abd89cf62)」で使用したソースコードです。
 
 
 # Create Mask
