@@ -1,0 +1,1 @@
+# Qiita-AdventCalendar-20241210-OpenCV
